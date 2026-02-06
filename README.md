@@ -1,6 +1,6 @@
 # Smart Workout Tracker
 
- A recruiter-ready Python project to track workouts, analyze performance, and visualize progress.
+ A Python project to track workouts, analyze performance, and visualize progress.
 
  ## Overview
 
